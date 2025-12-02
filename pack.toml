@@ -1,0 +1,13 @@
+name = "Arose-MTR Modpack Installer"
+author = "KingRanger17"
+version = "1.0.22"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "49552a85b9a5c1b682f111f8d657ab7efa4d932001a61c01d0b0a40c6b1239e3"
+
+[versions]
+fabric = "0.18.1"
+minecraft = "1.20.4"
