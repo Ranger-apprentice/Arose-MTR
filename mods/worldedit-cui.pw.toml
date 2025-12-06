@@ -5,7 +5,7 @@ side = "client"
 [option]
 optional = true
 default = false
-description = "[For Builders] Shwos WorldEdit selection visually. (Tip: you can assign a hotkey for deselecting.)"
+description = "[For Builders] Shows WorldEdit selection visually. (Tip: you can assign a hotkey for deselecting.)"
 
 [download]
 url = "https://cdn.modrinth.com/data/NSLJJooQ/versions/MsivFd3o/WorldEditCUI-1.20.3%2B01.jar"
