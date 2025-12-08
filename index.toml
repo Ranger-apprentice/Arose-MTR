@@ -1,0 +1,241 @@
+hash-format = "sha256"
+
+[[files]]
+file = "mods/automodpack.pw.toml"
+hash = "260e57c17ff93aa559561207c799cf605180af2ccb5a7a86af92ba444f78a3db"
+metafile = true
+
+[[files]]
+file = "mods/blossomlib.pw.toml"
+hash = "f16a5795a6ba42c12667f25f67ad0d50f2e384a13e1378d68f2daf6464f65293"
+metafile = true
+
+[[files]]
+file = "mods/blossomwarps.pw.toml"
+hash = "d011dd222ff900c9bd1eea73a45665e350c6736027f7a16a5d78a65b96629614"
+metafile = true
+
+[[files]]
+file = "mods/carpet.pw.toml"
+hash = "9893fe702bc0669b40982f197d14cd227e23c62550e2d84af9f0db346806caff"
+metafile = true
+
+[[files]]
+file = "mods/chat-heads.pw.toml"
+hash = "b499c0f69d4078ebfaa7755db796e3667e536cce8bff0e7290bc4071e6f14905"
+metafile = true
+
+[[files]]
+file = "mods/dynamic-sound-filters.pw.toml"
+hash = "51ded2ccce83cd66bd7f12b1316e492dda5f3f94e9bd89c56bd1ef113fb107bc"
+metafile = true
+
+[[files]]
+file = "mods/fabric-api.pw.toml"
+hash = "8435fe34f180c963234295c6bf8de293b3450d74f2ab74389ac9bdf198d84612"
+metafile = true
+
+[[files]]
+file = "mods/fabric-language-kotlin.pw.toml"
+hash = "d7c055f277c1751122d9abc5f09015e629699e04a9383cd0c666b33436293079"
+metafile = true
+
+[[files]]
+file = "mods/filters-api.pw.toml"
+hash = "b9480e9b507930881bda195d5ddebe107084261e5afcd1ab61cc107bef116c61"
+metafile = true
+
+[[files]]
+file = "mods/freecam.pw.toml"
+hash = "67460b0aef1e7773cfbd23e56792176512a3a79c3aa4dd8e544382d2ed06aa2e"
+metafile = true
+
+[[files]]
+file = "mods/immediatelyfast.pw.toml"
+hash = "060c6baaec85f47ba4bc2c0f4b8642b9933c27d3c166eb00ef86b4bbfd7f34a3"
+metafile = true
+
+[[files]]
+file = "mods/indium.pw.toml"
+hash = "db812a9b3a4a8ea011eedc44bdc4df13a1f3cfb67130fe57d3990342566d03a8"
+metafile = true
+
+[[files]]
+file = "mods/iris.pw.toml"
+hash = "96cafb1b451ce577f0a74045704c2f51c3ab34d63fbba81df669c21646d33bff"
+metafile = true
+
+[[files]]
+file = "mods/jcm.pw.toml"
+hash = "61033f1172464686f697b368ec23a090b00f48390392c5a637f1050251e89a4a"
+metafile = true
+
+[[files]]
+file = "mods/lithium.pw.toml"
+hash = "57fc1c61ba53059ccb27647cf44d4b8671ccf284fcd869ec1b6c04a94eb8335e"
+metafile = true
+
+[[files]]
+file = "mods/minecraft-transit-railway.pw.toml"
+hash = "4d1a390f5dccdb9347b35f1ea854b53beecb9791368b217e8e16fa1dff32b2f9"
+metafile = true
+
+[[files]]
+file = "mods/modmenu.pw.toml"
+hash = "07114208e332aa5fbc3e7144c2bac58ea74e50d4eaeac2b6c6cc5c41286bb335"
+metafile = true
+
+[[files]]
+file = "mods/mtr-london-underground-trains.pw.toml"
+hash = "6872d8df0f45517b1e2f627552d25e4cdfe568f24625141396e56a75f183f3e4"
+metafile = true
+
+[[files]]
+file = "mods/no-chat-reports.pw.toml"
+hash = "56365fcf55b2679a8f2ceefe5c3f949854d13945963a421d178145d0551b2fac"
+metafile = true
+
+[[files]]
+file = "mods/nowheel.pw.toml"
+hash = "3abfcf286a46f4e8617e9d36af7feb10af53e755a6bd1613127ce61bc76c3d5b"
+metafile = true
+
+[[files]]
+file = "mods/placeholder-api.pw.toml"
+hash = "de46918876de129bf08aa27420ec9b99b373dbccac7acaebd82e46b4c28836b5"
+metafile = true
+
+[[files]]
+file = "mods/russian-metro-addon.pw.toml"
+hash = "73a9839e338fbfb4d8b63eb3a274daf8557fab45932085b371dec3ce8cbf5577"
+metafile = true
+
+[[files]]
+file = "mods/slideshow-fabric.pw.toml"
+hash = "e94c10cc685e2b6de37dc41f133918cb3a6ea1a1a72e782f2b4cffd0fc0a82a4"
+metafile = true
+
+[[files]]
+file = "mods/sodium.pw.toml"
+hash = "521c8241593053f877a89ce447c64392c3619e16c2001b3cac7d72cbde8392d0"
+metafile = true
+
+[[files]]
+file = "mods/spark.pw.toml"
+hash = "c6a5c6afaf276bde5c35adb34e21155112b7defd08b83d95a81e435bc6530c42"
+metafile = true
+
+[[files]]
+file = "mods/squaremap.pw.toml"
+hash = "10e03effaac4de370986837d6cb0497e7c847b12bef858dbfddc4396c6cf21ff"
+metafile = true
+
+[[files]]
+file = "mods/starlight.pw.toml"
+hash = "75e3fb7d66b8e29bfc31b39e123c62c67fcb11d4614f2c6ac16df18a1b5e3eaf"
+metafile = true
+
+[[files]]
+file = "mods/station-decoration.pw.toml"
+hash = "d0aa439438069d14311f23a19678e28fc8763b0e8aa9f6fc5b3cdc68556d6f0d"
+metafile = true
+
+[[files]]
+file = "mods/terralith.pw.toml"
+hash = "3b61fcf1c80cfdd79282be71ddfa9cce02fc13f8d87a760db455e2a97b801f40"
+metafile = true
+
+[[files]]
+file = "mods/the-tube.pw.toml"
+hash = "370562c6b363aeb7b7b35bd44b5ff7ad49560e75cb66d38c8889c84274471b95"
+metafile = true
+
+[[files]]
+file = "mods/tianjin-metro.pw.toml"
+hash = "01766147ff9b9877712d1a5ac3c8245282c41d3cc510567d3a57a525360c75a1"
+metafile = true
+
+[[files]]
+file = "mods/time-wind.pw.toml"
+hash = "f3e66d1488a2b3b90ec316c711de2f7a11162b8e814b5e1d91f54d4365313973"
+metafile = true
+
+[[files]]
+file = "mods/u-team-core.pw.toml"
+hash = "aa9288d48e732cb185a309cf7568919691e38e745e323d964e103495095e02fc"
+metafile = true
+
+[[files]]
+file = "mods/ukulib.pw.toml"
+hash = "8b8ac972787f43f212193686d9c304277a54072f8a84731d5d699fb45271209c"
+metafile = true
+
+[[files]]
+file = "mods/visiblebarriers.pw.toml"
+hash = "51b517d73128d7d07585b4a684ae3e4cf40d6232b1c1d1fd6640eecb86b43280"
+metafile = true
+
+[[files]]
+file = "mods/worldedit-cui.pw.toml"
+hash = "bfcf968cabbcc7b44c61374e487f4f6832ac105699719673e4dce47a12bd3b7e"
+metafile = true
+
+[[files]]
+file = "mods/worldedit.pw.toml"
+hash = "f2d6b24ea4a6982f876c5151f6d8640f14746db8f94470cd90add9556ebaccd3"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-minimap.pw.toml"
+hash = "6c37942d0e07a8618bcd0f414ac5edff8a8beea820acaefbda7b24aa968a89bd"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-world-map.pw.toml"
+hash = "6796e2c7fabee670200cbb6d853cdf4f8938c019cc8990496d8879ac37d88523"
+metafile = true
+
+[[files]]
+file = "mods/yacl.pw.toml"
+hash = "b424b2e66611b4eca4a79f4d09318ee68fcbdb7b70b077a91e0e5682accec905"
+metafile = true
+
+[[files]]
+file = "mods/zoomify.pw.toml"
+hash = "cc9f2c1cc2e516f0fc97fb6344ba020c3c627cfce5ee0242ae7e3d1bab790305"
+metafile = true
+
+[[files]]
+file = "resourcepacks/cx100-tampa.pw.toml"
+hash = "4cd8dbbace9b041f671ab1f638de6f2f9f7e5d2aa308744087134448f8a1edea"
+metafile = true
+
+[[files]]
+file = "resourcepacks/mtr-curved-platform.pw.toml"
+hash = "9c42dd249866c71632c02a15b30baace2cb955abf611f194cc41c761cd69420c"
+metafile = true
+
+[[files]]
+file = "resourcepacks/mtr4-adl-enviro-200mmc-buses.pw.toml"
+hash = "f20786ee0e8949496e5ca8715a6dd699981a4a7e2febba524faf0a7372d08c6e"
+metafile = true
+
+[[files]]
+file = "resourcepacks/us-pids-pack.pw.toml"
+hash = "930d85f99824dbb77f6c928f7715a9acf3c9e1fc214cc602aa98b9be81e3e704"
+metafile = true
+
+[[files]]
+file = "resourcepacks/vdl-citea-and-cab.pw.toml"
+hash = "eee20da63165796388e6bcfabba2f01a8ab3d946282d04c50ff7dbd2591b829b"
+metafile = true
+
+[[files]]
+file = "resourcepacks/vdl-citea-lle-120.pw.toml"
+hash = "702b7a20ebc1d6a913305dced8d0390a20cacde22f4df60026c50589f1b6cd97"
+metafile = true
+
+[[files]]
+file = "resourcepacks/world-pids-pack.pw.toml"
+hash = "ecb96e19b0061263f6746339f03163b598fc2c0aaed4d095523ef7a8166db787"
+metafile = true
