@@ -1,0 +1,8 @@
+name = "ResourcePackUpdater"
+filename = "ResourcePackUpdater-2.0.1.jar"
+side = "client"
+
+[download]
+url = "https://github.com/zbx1425/ResourcePackUpdater/releases/download/2.0.1/resourcepackupdater-2.0.1.jar"
+hash-format = "sha1"
+hash = "f2389c1f97d6622d82796c65c9b2000248ff5384"
