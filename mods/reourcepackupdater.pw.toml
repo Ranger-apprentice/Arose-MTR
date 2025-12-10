@@ -1,8 +1,0 @@
-name = "ResourcePackUpdater"
-filename = "resourcepackupdater-1.20.4-2.3.1.jar"
-side = "client"
-[download]
-url = "github.com"
-hash-format = "sha256"
-hash = "e066f3c89f98f929210126dd2c1ea873ec3d44a7bbbb2ad6aecdd1f4940fdb7a"
-
