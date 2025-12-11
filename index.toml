@@ -111,10 +111,6 @@ hash = "de46918876de129bf08aa27420ec9b99b373dbccac7acaebd82e46b4c28836b5"
 metafile = true
 
 [[files]]
-file = "mods/resourcepackupdater-1.20.4-2.3.1.jar"
-hash = "e066f3c89f98f929210126dd2c1ea873ec3d44a7bbbb2ad6aecdd1f4940fdb7a"
-
-[[files]]
 file = "mods/russian-metro-addon.pw.toml"
 hash = "73a9839e338fbfb4d8b63eb3a274daf8557fab45932085b371dec3ce8cbf5577"
 metafile = true
