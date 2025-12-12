@@ -1,6 +1,18 @@
 hash-format = "sha256"
 
 [[files]]
+file = ".idea/.name"
+hash = "14dbb242a161d1665c1bdbf034c88765b695203e3b06bd5c2010a4980f7bfb06"
+
+[[files]]
+file = ".idea/vcs.xml"
+hash = "6323e12648862a0a96fc0d7877672817d6cd91e2c2a3c3d78f1090db23c6e88e"
+
+[[files]]
+file = ".idea/workspace.xml"
+hash = "04f09decbc2e8fbaf9f7cabd393461a1a483fdea94bc89ef1f2525513a881b8a"
+
+[[files]]
 file = "mods/blossomlib.pw.toml"
 hash = "f16a5795a6ba42c12667f25f67ad0d50f2e384a13e1378d68f2daf6464f65293"
 metafile = true
@@ -12,7 +24,7 @@ metafile = true
 
 [[files]]
 file = "mods/carpet.pw.toml"
-hash = "9893fe702bc0669b40982f197d14cd227e23c62550e2d84af9f0db346806caff"
+hash = "9e0f5b76c982dedd73c218eca72c5e45a2d933f2c28e6dc9a7b6de4ff91de505"
 metafile = true
 
 [[files]]
