@@ -5,7 +5,7 @@ side = "client"
 [option]
 optional = true
 default = false
-description = "Turns off the scroll to move through you hotbar gesture"
+description = "[For Builders] Disables the scroll to move through you hotbar gesture. (Is configurable after installation)."
 
 [download]
 url = "https://cdn.modrinth.com/data/GNhuDBbS/versions/sZ0SCW6g/nowheel-1.2.2%2Bmc1.20.2.jar"
