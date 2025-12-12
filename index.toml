@@ -1,18 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = ".idea/.name"
-hash = "15072381287547b99445c0caf03a80ced7240a1758681e12500c7e4c7aff8215"
-
-[[files]]
-file = ".idea/vcs.xml"
-hash = "55768f1f84fb117f1d0fc383e180b5d0aa5e5e6584c8c4a2995c15b4237f0972"
-
-[[files]]
-file = ".idea/workspace.xml"
-hash = "bbfd51d0905b3a9a3fbd2026666aea1266b64164ff9d66c9f62739d9afe0ea56"
-
-[[files]]
 file = "mods/blossomlib.pw.toml"
 hash = "f16a5795a6ba42c12667f25f67ad0d50f2e384a13e1378d68f2daf6464f65293"
 metafile = true
