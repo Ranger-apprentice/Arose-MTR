@@ -32,7 +32,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "d7c055f277c1751122d9abc5f09015e629699e04a9383cd0c666b33436293079"
+hash = "61afd7af5c645ffd966b2bd86be944eacd1e48a8044e8f67082225d4d9989f0c"
 metafile = true
 
 [[files]]
@@ -67,7 +67,7 @@ metafile = true
 
 [[files]]
 file = "mods/jcm.pw.toml"
-hash = "213ad55aedf8f30c842004196f4d00fc5ed47ec66793d557a50907d93f0b8e52"
+hash = "74853acf04bf24f93d0e3bcff58788bc4929b98560b575af77618cbcf9a61b62"
 metafile = true
 
 [[files]]
