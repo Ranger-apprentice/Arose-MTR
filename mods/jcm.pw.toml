@@ -1,13 +1,13 @@
 name = "Joban Client Mod"
-filename = "JCM-fabric-2.1.0-beta.3+1.20.4.jar"
+filename = "JCM-fabric-2.1.1+1.20.4.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/lQqKCDhg/versions/Qnwz2xoy/JCM-fabric-2.1.0-beta.3%2B1.20.4.jar"
+url = "https://cdn.modrinth.com/data/lQqKCDhg/versions/VMyzX4aT/JCM-fabric-2.1.1%2B1.20.4.jar"
 hash-format = "sha512"
-hash = "d6af69ae0e2ba97ffeb98377dd030e700fab4836782af0b01d4ae04b56b1a44121a384ecdf88ea3003b8379f9b6bb8dd740477ed95949a0a693c030dfef82eb9"
+hash = "13c54625f449dc984882acca77e29578a4b680431236cc5cf2720bcb339d31088af27a766bb1b3a20fb53723bef6a8b85835d8f36dc5c6dd948ac990af2269ce"
 
 [update]
 [update.modrinth]
 mod-id = "lQqKCDhg"
-version = "Qnwz2xoy"
+version = "VMyzX4aT"
