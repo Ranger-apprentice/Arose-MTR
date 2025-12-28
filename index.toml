@@ -67,7 +67,7 @@ metafile = true
 
 [[files]]
 file = "mods/jcm.pw.toml"
-hash = "74853acf04bf24f93d0e3bcff58788bc4929b98560b575af77618cbcf9a61b62"
+hash = "e83c87c3d885936e666e41d8f41d97383cc0cb954ded4f6d689697f500b65a2b"
 metafile = true
 
 [[files]]
@@ -143,6 +143,11 @@ metafile = true
 [[files]]
 file = "mods/station-decoration.pw.toml"
 hash = "d0aa439438069d14311f23a19678e28fc8763b0e8aa9f6fc5b3cdc68556d6f0d"
+metafile = true
+
+[[files]]
+file = "mods/styledplayerlist.pw.toml"
+hash = "b8f43a50939082d1d771497405b8c69a9a4a7fd8b32fa8828bafb723e4eb5e21"
 metafile = true
 
 [[files]]
@@ -247,5 +252,5 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/world-pids-pack.pw.toml"
-hash = "ecb96e19b0061263f6746339f03163b598fc2c0aaed4d095523ef7a8166db787"
+hash = "0a82b4bb98b0cb691846ac7db041a37b479cc34ff84fa92b413d51fa9a7dd712"
 metafile = true
