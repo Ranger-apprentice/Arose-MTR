@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "mods/ResourcePackUpdater-1.20.4-2.3.0.jar"
-hash = "8a0d204a3d462a1b2daf7dd0815a71a4de8f7eab3a97f3f0713a885df7e88070"
+hash = "fed721b5efa877d9fb976bdd21f91d6921e98064a963ca37976848a3c1278e82"
 
 [[files]]
 file = "mods/blossomlib.pw.toml"
