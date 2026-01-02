@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "mods/ResourcePackUpdater-1.20.4-2.3.0.jar"
+hash = "76644e51c6cca4267d56313379c608c6be985bebf6fe4473fe800686b1746543"
+
+[[files]]
 file = "mods/blossomlib.pw.toml"
 hash = "f16a5795a6ba42c12667f25f67ad0d50f2e384a13e1378d68f2daf6464f65293"
 metafile = true
@@ -213,44 +217,4 @@ metafile = true
 [[files]]
 file = "mods/zoomify.pw.toml"
 hash = "cc9f2c1cc2e516f0fc97fb6344ba020c3c627cfce5ee0242ae7e3d1bab790305"
-metafile = true
-
-[[files]]
-file = "resourcepacks/american-bus-pack.pw.toml"
-hash = "cf752160593c1da448da8b4eda83f719100db2b7c6580caba5fe6b48b8cce2e0"
-metafile = true
-
-[[files]]
-file = "resourcepacks/cx100-tampa.pw.toml"
-hash = "4cd8dbbace9b041f671ab1f638de6f2f9f7e5d2aa308744087134448f8a1edea"
-metafile = true
-
-[[files]]
-file = "resourcepacks/mtr-curved-platform.pw.toml"
-hash = "9c42dd249866c71632c02a15b30baace2cb955abf611f194cc41c761cd69420c"
-metafile = true
-
-[[files]]
-file = "resourcepacks/mtr4-adl-enviro-200mmc-buses.pw.toml"
-hash = "f20786ee0e8949496e5ca8715a6dd699981a4a7e2febba524faf0a7372d08c6e"
-metafile = true
-
-[[files]]
-file = "resourcepacks/us-pids-pack.pw.toml"
-hash = "930d85f99824dbb77f6c928f7715a9acf3c9e1fc214cc602aa98b9be81e3e704"
-metafile = true
-
-[[files]]
-file = "resourcepacks/vdl-citea-and-cab.pw.toml"
-hash = "eee20da63165796388e6bcfabba2f01a8ab3d946282d04c50ff7dbd2591b829b"
-metafile = true
-
-[[files]]
-file = "resourcepacks/vdl-citea-lle-120.pw.toml"
-hash = "702b7a20ebc1d6a913305dced8d0390a20cacde22f4df60026c50589f1b6cd97"
-metafile = true
-
-[[files]]
-file = "resourcepacks/world-pids-pack.pw.toml"
-hash = "0a82b4bb98b0cb691846ac7db041a37b479cc34ff84fa92b413d51fa9a7dd712"
 metafile = true
