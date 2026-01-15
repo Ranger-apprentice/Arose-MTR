@@ -91,7 +91,7 @@ metafile = true
 
 [[files]]
 file = "mods/mtr-london-underground-trains.pw.toml"
-hash = "6872d8df0f45517b1e2f627552d25e4cdfe568f24625141396e56a75f183f3e4"
+hash = "4756f85346ee56df307f142978d6699325e1c3cca0c9c2b42a14eed92a4870a5"
 metafile = true
 
 [[files]]
@@ -201,12 +201,12 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"
-hash = "6c37942d0e07a8618bcd0f414ac5edff8a8beea820acaefbda7b24aa968a89bd"
+hash = "b4563c8dc4c4f2776b249230ec9a41c1c7b2239f63f5e4eb3fad6e35d08b0305"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
-hash = "6796e2c7fabee670200cbb6d853cdf4f8938c019cc8990496d8879ac37d88523"
+hash = "36cf654b6a1b84f17c3f4e39c6471c208c7ffaec0e42da8b84570b7c4b335a69"
 metafile = true
 
 [[files]]
@@ -216,5 +216,5 @@ metafile = true
 
 [[files]]
 file = "mods/zoomify.pw.toml"
-hash = "cc9f2c1cc2e516f0fc97fb6344ba020c3c627cfce5ee0242ae7e3d1bab790305"
+hash = "e5165d57676c57e0ed58739cf2721775ab9a2219a32e0113015150d35a817818"
 metafile = true
