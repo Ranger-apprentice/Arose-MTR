@@ -91,7 +91,7 @@ metafile = true
 
 [[files]]
 file = "mods/mtr-london-underground-trains.pw.toml"
-hash = "4756f85346ee56df307f142978d6699325e1c3cca0c9c2b42a14eed92a4870a5"
+hash = "cf5644f858fcaad973125b76417c83f9f802ccb67d30b1f59080c8b4a320c55e"
 metafile = true
 
 [[files]]
