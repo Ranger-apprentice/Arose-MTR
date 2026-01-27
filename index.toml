@@ -52,7 +52,7 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "d9d01681616a8bdb45bbdd0a053b87153bbb77a5ef997325be0b3dc10b7f8979"
+hash = "d00804e18277945dda73f59796c1932862ceb96aac073a92b7a66ef92b4cf3bd"
 metafile = true
 
 [[files]]
@@ -108,6 +108,11 @@ metafile = true
 [[files]]
 file = "mods/placeholder-api.pw.toml"
 hash = "de46918876de129bf08aa27420ec9b99b373dbccac7acaebd82e46b4c28836b5"
+metafile = true
+
+[[files]]
+file = "mods/resource-pack-overrides.pw.toml"
+hash = "8663ee3dd4f6065bb156a0fdd07c8eeea9fe8d7ed96f66067d2677fdecd4e8fb"
 metafile = true
 
 [[files]]
@@ -214,35 +219,3 @@ metafile = true
 file = "mods/zoomify.pw.toml"
 hash = "e5165d57676c57e0ed58739cf2721775ab9a2219a32e0113015150d35a817818"
 metafile = true
-
-[[files]]
-file = "resourcepacks/Arose-MTR_RP_1.zip"
-hash = "cc3e84584152ade88b3073362822c334f54a86c5fbfa85076a839da5c0be784d"
-
-[[files]]
-file = "resourcepacks/Arose-MTR_RP_2.zip"
-hash = "b8b75ce78b4c2963d214b672687ca2ce4d82b3c5bf7a7369b0208cb0b0f3c0a8"
-
-[[files]]
-file = "resourcepacks/Arose-MTR_RP_3.zip"
-hash = "56aa0cee33f5ae03214961729c2cd43332ca507bd03e3ce9623fa941d5037f40"
-
-[[files]]
-file = "resourcepacks/Arose-MTR_RP_4.zip"
-hash = "bbc683ad3d4470456623ed43fc06f72eba4cf7e47665406c8e5619f4b6a38181"
-
-[[files]]
-file = "resourcepacks/Arose-MTR_RP_5.zip"
-hash = "f3ca8bc999a8cda5b94075dc5eec68f7880d49577aa9b622cf648cd3c8ffbfe4"
-
-[[files]]
-file = "resourcepacks/Arose-MTR_RP_6.zip"
-hash = "e6e9e68b3665d6c6d225949fe45f20f51632f8e59e744af21f0010a19d800757"
-
-[[files]]
-file = "resourcepacks/Arose-MTR_RP_7.zip"
-hash = "b41253ebcf68fc0437cd49e8f87f9c312cce554824e0bbfa13b6425269549d8a"
-
-[[files]]
-file = "resourcepacks/Arose-MTR_RP_8.zip"
-hash = "724fd28f4fac714c0ec0c23dffc96ca8fa033e871bda9e3060307f2876c4cca6"
