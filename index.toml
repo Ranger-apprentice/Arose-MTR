@@ -17,7 +17,7 @@ metafile = true
 
 [[files]]
 file = "mods/chat-heads.pw.toml"
-hash = "b499c0f69d4078ebfaa7755db796e3667e536cce8bff0e7290bc4071e6f14905"
+hash = "6e2063477775efb5d67ee4c0a2fd8d69338bf96c11063c888f82a5578b7df799"
 metafile = true
 
 [[files]]
@@ -32,7 +32,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "61afd7af5c645ffd966b2bd86be944eacd1e48a8044e8f67082225d4d9989f0c"
+hash = "408151861cc1b1a4c4e9c8a3550662a2fc36d0ea96ee07b7e96c5d2a6afacf6f"
 metafile = true
 
 [[files]]
@@ -108,11 +108,6 @@ metafile = true
 [[files]]
 file = "mods/placeholder-api.pw.toml"
 hash = "de46918876de129bf08aa27420ec9b99b373dbccac7acaebd82e46b4c28836b5"
-metafile = true
-
-[[files]]
-file = "mods/resource-pack-overrides.pw.toml"
-hash = "8663ee3dd4f6065bb156a0fdd07c8eeea9fe8d7ed96f66067d2677fdecd4e8fb"
 metafile = true
 
 [[files]]
@@ -202,12 +197,12 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"
-hash = "b4563c8dc4c4f2776b249230ec9a41c1c7b2239f63f5e4eb3fad6e35d08b0305"
+hash = "9cc96918a758b3643ab9435ed02779c8d923f950419971b8769c83e1e498c36a"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
-hash = "36cf654b6a1b84f17c3f4e39c6471c208c7ffaec0e42da8b84570b7c4b335a69"
+hash = "fbc2d8d2f8540f2f186b9ccc9c91841397e0549d4d3a75020f241a1e357f38e7"
 metafile = true
 
 [[files]]
@@ -217,5 +212,5 @@ metafile = true
 
 [[files]]
 file = "mods/zoomify.pw.toml"
-hash = "e5165d57676c57e0ed58739cf2721775ab9a2219a32e0113015150d35a817818"
+hash = "0aa70567b035116f8fa4639513b1871012ab23b99bf36962de8d9ea31ca8ce35"
 metafile = true
