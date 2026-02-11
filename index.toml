@@ -67,7 +67,7 @@ metafile = true
 
 [[files]]
 file = "mods/jcm.pw.toml"
-hash = "e83c87c3d885936e666e41d8f41d97383cc0cb954ded4f6d689697f500b65a2b"
+hash = "65552ac1ca86fb0daf8130178459df832d7748127adc0502d0c655a05a783389"
 metafile = true
 
 [[files]]
@@ -197,12 +197,12 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"
-hash = "9cc96918a758b3643ab9435ed02779c8d923f950419971b8769c83e1e498c36a"
+hash = "572f2a20f826e7d1820d92c9ce3d4ecefda956f996b5677a55bf2c61582b64eb"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
-hash = "fbc2d8d2f8540f2f186b9ccc9c91841397e0549d4d3a75020f241a1e357f38e7"
+hash = "b334edb7e48c812558ada61896aeb7b5437a57a6f062399e3decac10fa68755c"
 metafile = true
 
 [[files]]
