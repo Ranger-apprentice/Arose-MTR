@@ -106,6 +106,11 @@ hash = "d5311528fd2858d1c6c95f207ee65fcded1b0db497ad995743b64b9e1244b174"
 metafile = true
 
 [[files]]
+file = "mods/packwiz-modpack-loader.pw.toml"
+hash = "34fc4d484605a6ad67fcce516a8635bc3f9662271c2d0d3fb39d7e89f5c63037"
+metafile = true
+
+[[files]]
 file = "mods/placeholder-api.pw.toml"
 hash = "de46918876de129bf08aa27420ec9b99b373dbccac7acaebd82e46b4c28836b5"
 metafile = true
