@@ -102,7 +102,7 @@ metafile = true
 
 [[files]]
 file = "mods/open-parties-and-claims.pw.toml"
-hash = "d5311528fd2858d1c6c95f207ee65fcded1b0db497ad995743b64b9e1244b174"
+hash = "c2beb745d25f2bf1338a92175dba0be82d0e912982e9b09cfedb28d36afa58df"
 metafile = true
 
 [[files]]
@@ -167,7 +167,7 @@ metafile = true
 
 [[files]]
 file = "mods/tianjin-metro.pw.toml"
-hash = "01766147ff9b9877712d1a5ac3c8245282c41d3cc510567d3a57a525360c75a1"
+hash = "f89d4a82d1da74b427110b25665e057bd2e2308a668a75ce35953bb32ba103be"
 metafile = true
 
 [[files]]
