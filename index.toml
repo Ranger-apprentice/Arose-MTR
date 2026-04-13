@@ -21,7 +21,7 @@ metafile = true
 
 [[files]]
 file = "mods/chat-heads.pw.toml"
-hash = "6e2063477775efb5d67ee4c0a2fd8d69338bf96c11063c888f82a5578b7df799"
+hash = "3fdfce41e8aee0ed7ea0b9f12763a6f1d1a0f888fcbcd749b3c78baf9b63e1d8"
 metafile = true
 
 [[files]]
@@ -36,7 +36,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "408151861cc1b1a4c4e9c8a3550662a2fc36d0ea96ee07b7e96c5d2a6afacf6f"
+hash = "e49f549eecbe502a3da6d731d6e28783631b14b0bba7bba9780a1075e7926776"
 metafile = true
 
 [[files]]
@@ -71,7 +71,7 @@ metafile = true
 
 [[files]]
 file = "mods/jcm.pw.toml"
-hash = "65552ac1ca86fb0daf8130178459df832d7748127adc0502d0c655a05a783389"
+hash = "2506ef147d11944b8f5bb748f65afb28a853a3081b05f835c910fa17d8c3278a"
 metafile = true
 
 [[files]]
@@ -81,7 +81,7 @@ metafile = true
 
 [[files]]
 file = "mods/minecraft-transit-railway.pw.toml"
-hash = "ec9947cec7985a27102abe4f458f3f25b9dcebe1e506aab749b76d1d830a3760"
+hash = "99d5d752bc5cbb1d1458bb824e7dce2151607696641f92011b0b6d6c82ece8b0"
 metafile = true
 
 [[files]]
@@ -106,7 +106,7 @@ metafile = true
 
 [[files]]
 file = "mods/open-parties-and-claims.pw.toml"
-hash = "c2beb745d25f2bf1338a92175dba0be82d0e912982e9b09cfedb28d36afa58df"
+hash = "ab22ebdb37f8df9edffdfdad62b13109d20073d90c8c9c7351c3621c0842b965"
 metafile = true
 
 [[files]]
