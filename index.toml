@@ -125,6 +125,11 @@ hash = "de46918876de129bf08aa27420ec9b99b373dbccac7acaebd82e46b4c28836b5"
 metafile = true
 
 [[files]]
+file = "mods/resourcify.pw.toml"
+hash = "0ef42bb08a27404875467f94c1a6ed717314a6b3a77d9897f7a3e9c7d43aeb94"
+metafile = true
+
+[[files]]
 file = "mods/russian-metro-addon.pw.toml"
 hash = "73a9839e338fbfb4d8b63eb3a274daf8557fab45932085b371dec3ce8cbf5577"
 metafile = true
