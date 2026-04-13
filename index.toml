@@ -105,11 +105,6 @@ hash = "4bc90767bb9d464408593916bcf4d9c8e7d514d260791b2fb84f24c388d4109f"
 metafile = true
 
 [[files]]
-file = "mods/open-parties-and-claims.pw.toml"
-hash = "ab22ebdb37f8df9edffdfdad62b13109d20073d90c8c9c7351c3621c0842b965"
-metafile = true
-
-[[files]]
 file = "mods/packwiz-modpack-loader.pw.toml"
 hash = "34fc4d484605a6ad67fcce516a8635bc3f9662271c2d0d3fb39d7e89f5c63037"
 metafile = true
