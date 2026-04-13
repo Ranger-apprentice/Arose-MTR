@@ -25,6 +25,11 @@ hash = "3fdfce41e8aee0ed7ea0b9f12763a6f1d1a0f888fcbcd749b3c78baf9b63e1d8"
 metafile = true
 
 [[files]]
+file = "mods/cloth-config.pw.toml"
+hash = "931fa7587facbc9b334c7539722b2dacaac520f253ebfbc5b87665d5abbcea77"
+metafile = true
+
+[[files]]
 file = "mods/dynamic-sound-filters.pw.toml"
 hash = "51ded2ccce83cd66bd7f12b1316e492dda5f3f94e9bd89c56bd1ef113fb107bc"
 metafile = true
@@ -52,6 +57,11 @@ metafile = true
 [[files]]
 file = "mods/freecam.pw.toml"
 hash = "67460b0aef1e7773cfbd23e56792176512a3a79c3aa4dd8e544382d2ed06aa2e"
+metafile = true
+
+[[files]]
+file = "mods/gamma-utils.pw.toml"
+hash = "1140de8803a5132b8de9829c39b749790a0c36daf5ebc63e8cf135c6749c243c"
 metafile = true
 
 [[files]]
