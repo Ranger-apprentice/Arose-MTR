@@ -1,8 +1,8 @@
 hash-format = "sha256"
 
 [[files]]
-file = "mods/Arose-MTR-Utilities-1.2.8.jar"
-hash = "ca9bd2cbab1a686ded8f74169808341e5e4b1d426c7659830c8397e9c9a430e6"
+file = "mods/Arose-MTR-Utilities-1.2.10.jar"
+hash = "ccccb6f4eaf95bd0ef9d0c39c53a284846d1b15a622612752185022c8e2db37d"
 
 [[files]]
 file = "mods/blossomlib.pw.toml"
