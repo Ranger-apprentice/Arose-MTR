@@ -41,7 +41,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "e49f549eecbe502a3da6d731d6e28783631b14b0bba7bba9780a1075e7926776"
+hash = "337d97b990f76c91584b12600651ae7bd47a0824e45070b3d9330b0922149fc0"
 metafile = true
 
 [[files]]
@@ -81,7 +81,7 @@ metafile = true
 
 [[files]]
 file = "mods/jcm.pw.toml"
-hash = "92a5f843c1680a17261a7fcf1b0ae09238e4c7688162ae98c3acc3da7cd5ac82"
+hash = "1a8b18586e7ed7f26f9207d7291b7dd8fcb302ebf22ca3329bae8f545a205766"
 metafile = true
 
 [[files]]
@@ -216,12 +216,12 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"
-hash = "572f2a20f826e7d1820d92c9ce3d4ecefda956f996b5677a55bf2c61582b64eb"
+hash = "b4106f4b8ccf25fd6153f6f13bf918bb11790e5b4ec4ceba602f03bca4ee93e2"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
-hash = "b334edb7e48c812558ada61896aeb7b5437a57a6f062399e3decac10fa68755c"
+hash = "241552a60e5d065d9b8d308274e8a5649c3b2e9fd5f079d8ef720752b4c9e6e5"
 metafile = true
 
 [[files]]
