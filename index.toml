@@ -1,10 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "mods/Arose-MTR-Utilities-1.4.8.jar"
-hash = "99791557c3175b076fe0f2c94adc856069aaec519b521f250788b52b923a3205"
-
-[[files]]
 file = "mods/Arose-MTR-Utilities-1.4.9.jar"
 hash = "5c229f20941b6585094df4fb5ef2ee884aa834c41386d77118941320a95f57b1"
 
