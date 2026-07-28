@@ -21,7 +21,7 @@ metafile = true
 
 [[files]]
 file = "mods/chat-heads.pw.toml"
-hash = "58c1a1431c865f2ea9e283deb672842173928abc3304996cbfc99271c97d77c5"
+hash = "c37b456dfb40b05b4fa7be6bc9dde00c85f3e8e135bedf97a6481a69f4c60e64"
 metafile = true
 
 [[files]]
@@ -41,7 +41,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "9d37d326d9557fdd25c97d72ac1bbd1e74c524aa5dca437a91d0de645dff6545"
+hash = "2a760e528bf27c3eb4ae7c06200d91ee9c2849295addaa2add05495c7dee9528"
 metafile = true
 
 [[files]]
@@ -126,7 +126,7 @@ metafile = true
 
 [[files]]
 file = "mods/resourcify.pw.toml"
-hash = "0ef42bb08a27404875467f94c1a6ed717314a6b3a77d9897f7a3e9c7d43aeb94"
+hash = "4f09de85c897282c704794ea7de0d74f884d00e280e8ee61e2e802f96af1b3fc"
 metafile = true
 
 [[files]]
@@ -181,7 +181,7 @@ metafile = true
 
 [[files]]
 file = "mods/tianjin-metro.pw.toml"
-hash = "f89d4a82d1da74b427110b25665e057bd2e2308a668a75ce35953bb32ba103be"
+hash = "926378c304cf4e6560818e3ec1e836e021a8cf99359d3a8ebd7c4f9a62cdb5c1"
 metafile = true
 
 [[files]]
@@ -216,12 +216,12 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"
-hash = "5c01d1b58e87e1615470a691298024125ea07a2cac12701afa7d7f953b0380d1"
+hash = "da51ba05e432ebe3729cb30d314033de8996de710aef4dc4f8e8b4672615e8aa"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
-hash = "79d23898e20d4efe5ac278882a7f27b4c36b07826cf8f4e9fed7bffd5004a532"
+hash = "06505cf46289a427dcf7e2c669a6b2d9a11d6bc12d9ae8de18e9600228b72b52"
 metafile = true
 
 [[files]]
