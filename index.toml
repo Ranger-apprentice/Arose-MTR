@@ -1,8 +1,8 @@
 hash-format = "sha256"
 
 [[files]]
-file = "mods/Arose-MTR-Utilities-1.4.12.jar"
-hash = "63b611738a4233e9952010720587e94ec892c91d306dc65795e3c606308832f4"
+file = "mods/Arose-MTR-Utilities-1.5.0.jar"
+hash = "a14f298b90611ba75263e3d6c739855cd958eb9631d53cd77d245e57e5bdb1e4"
 
 [[files]]
 file = "mods/blossomlib.pw.toml"
@@ -21,7 +21,7 @@ metafile = true
 
 [[files]]
 file = "mods/chat-heads.pw.toml"
-hash = "c37b456dfb40b05b4fa7be6bc9dde00c85f3e8e135bedf97a6481a69f4c60e64"
+hash = "db4eda47ea12e5438da26d7f1acc4b99e628f768dc6f8eef62acc41a7262650b"
 metafile = true
 
 [[files]]
@@ -41,7 +41,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "2a760e528bf27c3eb4ae7c06200d91ee9c2849295addaa2add05495c7dee9528"
+hash = "1811d49906aa7a1e7f1230535c6fec91be45129d028f7900cf35571a497e42b3"
 metafile = true
 
 [[files]]
@@ -81,7 +81,7 @@ metafile = true
 
 [[files]]
 file = "mods/jcm.pw.toml"
-hash = "20812bc4dee7749ac692ff3bdb10e496713234780b3e153ec7dfe67f5dd32db3"
+hash = "e7fa9fe7a941e898174354adc5c6052a1065b816eafc82ae0f497a8608c0060c"
 metafile = true
 
 [[files]]
@@ -181,7 +181,7 @@ metafile = true
 
 [[files]]
 file = "mods/tianjin-metro.pw.toml"
-hash = "926378c304cf4e6560818e3ec1e836e021a8cf99359d3a8ebd7c4f9a62cdb5c1"
+hash = "0ed18af9f2b3dc840e8ab532981b3c04a6353ef68ffac0aceaeeb8581ac68023"
 metafile = true
 
 [[files]]
@@ -216,12 +216,12 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"
-hash = "da51ba05e432ebe3729cb30d314033de8996de710aef4dc4f8e8b4672615e8aa"
+hash = "91aa9b426adaec85fc5034fca6e1c7c064440f6bf5aa42630d91126d5984bb96"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
-hash = "06505cf46289a427dcf7e2c669a6b2d9a11d6bc12d9ae8de18e9600228b72b52"
+hash = "083e0e2a242c25390aa4ba37e2f5b6c550fb01915f91a8d4547baa0090e06b37"
 metafile = true
 
 [[files]]
