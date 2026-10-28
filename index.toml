@@ -5,6 +5,10 @@ file = "mods/Arose-MTR-Utilities-1.6.18.jar"
 hash = "a09119b6618992f83e2141b77495fa54a0b717e838f0fd3da5157baab71c9090"
 
 [[files]]
+file = "mods/Arose-MTR-Utilities-1.7.0.jar"
+hash = "dc68ad0aa09885338f8fe65da7311c7e2fabcc207f11d84341389e7b3b2c3854"
+
+[[files]]
 file = "mods/blossomlib.pw.toml"
 hash = "f16a5795a6ba42c12667f25f67ad0d50f2e384a13e1378d68f2daf6464f65293"
 metafile = true
