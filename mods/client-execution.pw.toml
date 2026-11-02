@@ -1,0 +1,13 @@
+name = "Client Execution"
+filename = "client_execution-1.0.1-mc1.20.4.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/xh5zv1DU/versions/vT05oZ1u/client_execution-1.0.1-mc1.20.4.jar"
+hash-format = "sha512"
+hash = "892ad0fb131ae322375d763572c097fe4ebfbb4e1abb7be3330102193d9e05564b17aec577ab97edf6b7ef5e3642a855ab5ad4dc0b01822ce837557a3d852bce"
+
+[update]
+[update.modrinth]
+mod-id = "xh5zv1DU"
+version = "vT05oZ1u"
