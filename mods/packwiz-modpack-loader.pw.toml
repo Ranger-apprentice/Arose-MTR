@@ -1,6 +1,6 @@
 name = "Packwiz Modpack Loader"
 filename = "packwizsu-3.1.0+1.19.jar"
-side = "server"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/gJUTDRJj/versions/hF8FvSIb/packwizsu-3.1.0%2B1.19.jar"
