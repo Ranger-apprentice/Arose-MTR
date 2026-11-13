@@ -1,8 +1,8 @@
 hash-format = "sha256"
 
 [[files]]
-file = "mods/Arose-MTR-Utilities-2.0.5.jar"
-hash = "4c018ce8eeb6450fbe5fbdf87632c51fb27f3f67cb2a1b5671bd8ff9bf933af1"
+file = "mods/Arose-MTR-Utilities-2.0.6.jar"
+hash = "e8f388e7f56dfc8acb6ab5660fd332967fb272e97a756b4d87a67e55195cfd36"
 
 [[files]]
 file = "mods/blossomlib.pw.toml"
@@ -86,7 +86,7 @@ metafile = true
 
 [[files]]
 file = "mods/jcm.pw.toml"
-hash = "e7fa9fe7a941e898174354adc5c6052a1065b816eafc82ae0f497a8608c0060c"
+hash = "8a75b184fc4a5b9aaed94f89f1a25310c4bb2590973ca2ab9ab6e028d5e33981"
 metafile = true
 
 [[files]]
@@ -106,7 +106,7 @@ metafile = true
 
 [[files]]
 file = "mods/mtr-london-underground-trains.pw.toml"
-hash = "cf5644f858fcaad973125b76417c83f9f802ccb67d30b1f59080c8b4a320c55e"
+hash = "1601005340776dd96d7563825c88b263f0f91ca79efd28bfec3d3ef58c63ce85"
 metafile = true
 
 [[files]]
